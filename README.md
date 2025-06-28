@@ -72,7 +72,7 @@ currently: Open to exciting opportunities!
 
 </details>
 
-<details>
+<!-- <details>
 <summary><b>💡 Projects</b> (Click to expand!)</summary>
 
 ### 📘 School Management System
@@ -90,7 +90,7 @@ currently: Open to exciting opportunities!
 - Microblogging: posting, commenting, likes, following
 - RESTful APIs, analytics tracking, responsive UI
 
-</details>
+</details> -->
 
 <details>
 <summary><b>💼 Internship Experience</b></summary>
