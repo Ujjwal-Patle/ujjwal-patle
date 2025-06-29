@@ -110,12 +110,13 @@ Info Origin Technologies Pvt. Ltd., Gondia (July 2024 – October 2024)
 
 ---
 
-## 🌱 Let's Connect!
+<!-- ## 🌱 Let's Connect!
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-patle/)
 - Location: Pune, Maharashtra, India
 
 ---
+-->
 
 <p align="center"><i>
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
